@@ -9,5 +9,5 @@ Please refer to this link for more details on these datasets:
 https://www.kaggle.com/datasets/rizdelhi/analytics-vidya-ltfs-finhack-3?select=ltfs3_train_bur
 eau.csv
 
-We derived a new column called “Top-up” from the column called "Top-Up Month" as the label where (label 0 corresponds to No Top-up Service event, and label 1 represents all other types of Top-Up service).
+We derived a new column called “Top-up” from the column called "Top-Up Month" as the label where (label 0 corresponds to No Top-up Service event, and label 1 represents all other types of Top-Up service).<br>
 Please refer to the releases for the customer and bureau datasets.
