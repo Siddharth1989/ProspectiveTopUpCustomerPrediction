@@ -4,8 +4,7 @@ Dataset Information:<br>
 1. Customer data contains variables related to basic service information. For example, frequency of the loan, tenure of the loan, disbursal amount for a loan & LTV.
 2. The bureau data includes the behavioural and transactional attributes of the customers, such as current balance, loan amount, overdue, etc., for various tradelines of a given customer.<br>
 3. Please refer to this link for more details on these datasets:
-https://www.kaggle.com/datasets/rizdelhi/analytics-vidya-ltfs-finhack-3?select=ltfs3_train_bur
-eau.csv
+https://www.kaggle.com/datasets/rizdelhi/analytics-vidya-ltfs-finhack-3?select=ltfs3_train_bureau.csv
 4. Please refer to the releases for the customer and bureau datasets.<br>
 
 Part 1:<br>
