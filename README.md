@@ -1,4 +1,4 @@
-# ProspectiveTopUpCustomerIdentification
+# ProspectiveTopUpCustomerPrediction
 MonPG provides its loan services to its customers and is interested in selling more of its Top-up loan services to its existing customers. We developed a SparkML model with a custom String Indexer to identify potential customers that may purchase any Top-up services in the future.<br>
 Dataset Information:<br>
 1. Customer data contains variables related to basic service information. For example, frequency of the loan, tenure of the loan, disbursal amount for a loan & LTV.
