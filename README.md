@@ -1,6 +1,8 @@
 # ProspectiveTopUpCustomerPrediction
 MonPG provides its loan services to its customers and is interested in selling more of its Top-up loan services to its existing customers. The goal was to identify the customers who are likely to purchase MonPG's top-up services in the future. I developed and persisted a SparkML pipeline model to identify potential customers that may purchase any Top-up services in the future (Part 1). Furthermore, I created a SparkML machine learning pipeline stream using Kafka and Spark Streaming using the persisted pipeline model (Part 2).<br>
 
+**Note**: Part 2 of this project was implemented with the help of dedicated cloud servers at Monash University. These servers were used to start a new Kafka session. To reuse this code in your own environment, you may need to set up your own Kafka servers.
+
 Dataset Information:<br>
 1. Customer data contains variables related to basic service information. For example, frequency of the loan, tenure of the loan, disbursal amount for a loan & LTV.
 2. The bureau data includes the behavioural and transactional attributes of the customers, such as current balance, loan amount, overdue, etc., for various tradelines of a given customer.<br>
